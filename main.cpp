@@ -30,12 +30,6 @@
 /// **** MD ASFAKUR RAHAT **** ///
 /// *** ID: 18192103015 *** ///
 
-/// *** MAHJABIN NAMIRA MAZUMDER *** ///
-/// *** ID: 18192103023 *** ///
-
-/// **** NAZMUR RAIHAN **** ///
-/// ** ID: 18192103038 ** ///
-
 /// @ The Main Function of our @Project @ ///
 int main()
 {
